@@ -1,2 +1,9 @@
-# PORTFOLIO
-ABDULKERIM GADO.github.io/portfolio Abdulkerim gado
+# DATA SCEINTIST
+
+### EDUCATION
+Civil Engineering
+IBM Professional Data Science Certification
+
+### PROJECTS
+  -Building a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and set from the UCI Machine Learning Repository. 
+
