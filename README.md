@@ -6,10 +6,11 @@
   https://www.coursera.org/account/accomplishments/professional-cert/G9HBKRDTY3T3
 
 ### PROJECTS
- 1 -Building a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and set from the UCI Machine Learning Repository. 
+  ## 1-Project 1
+  -Building a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and set from the UCI Machine Learning Repository. 
   https://github.com/kerimo2323/PRODIGY_DS_03.git
-  ### 2-Project Background
-SpaceX is the most successful company of the commercial space age, making space travel affordable. The company advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore, if we can determine if the first stage will land, we can determine the cost of a launch. Based on public information and machine learning models, we are going to predict if SpaceX will reuse the first stage.
+  ## 2-Project Background
+  -SpaceX is the most successful company of the commercial space age, making space travel affordable. The company advertises Falcon 9 rocket launches on its   website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore, if we can determine if the first stage will land, we can determine the cost of a launch. Based on public information and machine learning models, we are going to predict if SpaceX will reuse the first stage.
 
 📄 Questions to be answered
 How do variables such as payload mass, launch site, number of flights, and orbits affect the success of the first stage landing?
