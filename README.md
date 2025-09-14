@@ -23,6 +23,6 @@
   ##Project 3
    -Performing data cleaning and exploratory data analysis (EDA) on a Titanic dataset from Kaggle. Exploring the relationships between variables and identifying patterns and trends in the data.
    [LINK](https://github.com/kerimo2323/TASK-PRODIGY_DS_02.git)
-   [EDA from kaggle](assets/EDA kaggle.PNG)
+   [EDA from kaggle](assets/EDAkaggle.PNG)
   
 
