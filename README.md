@@ -4,8 +4,9 @@
 
 ### EDUCATION
    -Civil Engineering
+   
    -IBM Professional Data Science Certification
-      (https://www.coursera.org/account/accomplishments/professional-cert/G9HBKRDTY3T3)
+    (https://www.coursera.org/account/accomplishments/professional-cert/G9HBKRDTY3T3)
 
 ### PROJECTS
 
