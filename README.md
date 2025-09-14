@@ -6,7 +6,7 @@
    -Civil Engineering
    
    -IBM Professional Data Science Certification
-    [Publication](https://www.coursera.org/account/accomplishments/professional-cert/G9HBKRDTY3T3)
+    [IBM](https://www.coursera.org/account/accomplishments/professional-cert/G9HBKRDTY3T3)
 
 
 ### PROJECTS
