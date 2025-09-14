@@ -1,6 +1,6 @@
 # DATA SCEINTIST
 
-### Technical Skills: Python,SQL,Power Bi
+### Technical Skills: Python,SQL,Power BI
 
 ### EDUCATION
    -Civil Engineering
