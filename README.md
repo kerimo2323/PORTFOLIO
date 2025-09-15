@@ -50,7 +50,7 @@
    
    ![Visualization](/assets/visual.jpg)
   
-###ABOUT 
+### ABOUT 
   [PROFILE](https://my-story-abdulkerim.my.canva.site/simple-modern-creative-portfolio-presentation)
   
 
