@@ -1,4 +1,4 @@
-# DATA SCEINTIST
+# DATA SCIENTIST
 
 [LINKEDIN](www.linkedin.com/in/abdulkerim-kemal-770208171)
 
