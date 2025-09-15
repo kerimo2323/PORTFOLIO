@@ -1,5 +1,7 @@
 # DATA SCEINTIST
 
+[LINKEDIN](www.linkedin.com/in/abdulkerim-kemal-770208171)
+
 ### Technical Skills: Python,SQL,Power BI
 
 ### EDUCATION
@@ -7,6 +9,10 @@
    
    -IBM Professional Data Science Certification
     [IBM crendential link](https://www.coursera.org/account/accomplishments/professional-cert/G9HBKRDTY3T3)
+    
+   -Certified in AI-Augmented Professional Development through ALX and trained as a Data Analyst,
+    [AI crendential link](https://intranet.alxswe.com/certificates/9MhZL27CHN)
+    [Data Analyst crendential link](https://intranet.alxswe.com/certificates/TynxCmSFR2)
 
 ### PROJECTS
 
