@@ -1,6 +1,6 @@
 # DATA SCIENTIST
 
-[LINKEDIN](www.linkedin.com/in/abdulkerim-kemal-770208171)
+[LINKEDIN](https://www.linkedin.com/in/abdulkerim-kemal-770208171)
 
 ### Technical Skills: Python,SQL,Power BI
 
