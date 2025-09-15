@@ -11,7 +11,8 @@
     [IBM crendential link](https://www.coursera.org/account/accomplishments/professional-cert/G9HBKRDTY3T3)
     
    -Certified in AI-Augmented Professional Development through ALX and trained as a Data Analyst,
-    [AI crendential link](https://intranet.alxswe.com/certificates/9MhZL27CHN)
+   
+   [AI crendential link](https://intranet.alxswe.com/certificates/9MhZL27CHN)
     
    [Data Analyst crendential link](https://intranet.alxswe.com/certificates/TynxCmSFR2)
 
