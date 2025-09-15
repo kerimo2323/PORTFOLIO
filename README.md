@@ -49,6 +49,8 @@
    [project LINK](https://github.com/kerimo2323/PRODIGY_DS_01.git)
    
    ![Visualization](/assets/visual.jpg)
-
+  
+###ABOUT 
+  [PROFILE](https://my-story-abdulkerim.my.canva.site/simple-modern-creative-portfolio-presentation)
   
 
